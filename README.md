@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divyachanana
-- 👀 I’m a tech enthusiastic
+- 👀 I’m an engineering student 
 - 🌱 I’m currently learning CSE (AI&ML)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me asvdivyachandana@gmail.com
