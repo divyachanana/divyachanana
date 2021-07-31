@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyachanana
+- 👋 Hi, I’m @divyachandana
 - 👀 I’m an engineering student 
 - 🌱 I’m currently learning CSE (AI&ML)
 - 💞️ I’m looking to collaborate on ...
